@@ -1,0 +1,5 @@
+/.idea/
+/engine/
+/OpenRA.Mods.Cameo/obj/
+/mods/cameo/*.dll
+/mods/cameo/*.pdb
